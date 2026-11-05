@@ -1,0 +1,24 @@
+:root {
+  /* 主题色：与 Element Plus 主色保持一致，改这里可整体换肤 */
+  --app-primary: #409eff;
+  --app-primary-light: #ecf5ff;
+
+  /* 中性色 */
+  --app-bg: #f5f7fa;
+  --app-surface: #ffffff;
+  --app-text-primary: #303133;
+  --app-text-secondary: #606266;
+  --app-text-placeholder: #a8abb2;
+  --app-border: #dcdfe6;
+  --app-border-light: #ebeef5;
+
+  /* 功能色 */
+  --app-success: #67c23a;
+  --app-warning: #e6a23c;
+  --app-danger: #f56c6c;
+
+  /* 布局尺寸 */
+  --app-header-height: 56px;
+  --app-sidebar-width: 220px;
+  --app-sidebar-width-collapsed: 64px;
+}
